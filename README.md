@@ -25,9 +25,9 @@ ___
 
 > #### Snapshots : 
 ___
-- ![Example 1](https://github.com/benhari1997/NewsSearchApp/tree/main/examples/interface-example-1.PNG)
+- ![Example 1](https://github.com/benhari1997/NewsSearchApp/tree/master/examples/interface-example-1.PNG)
 
-- ![Example 2](https://github.com/benhari1997/NewsSearchApp/tree/main/examples/interface-example-2.PNG)
+- ![Example 2](https://github.com/benhari1997/NewsSearchApp/tree/master/examples/interface-example-2.PNG)
 
 > #### Bibliography : 
 ___
