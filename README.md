@@ -1,4 +1,4 @@
-**PyQt5 & mongodb - News search application project :**
+# PyQt5 & mongodb - News search application project :
 ___
 This project is a small implementation of a Pyqt application that <b> mines </b> and displays the articles informations from a specific website (dailymail used as an examlple) by key search. its different functionnalities are the following :
 
